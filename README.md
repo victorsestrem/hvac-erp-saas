@@ -1,6 +1,6 @@
-# Multi-tenant ERP for HVAC Services (Kateka Clima): Case Study
+# ERP for HVAC Services (Kateka Clima): Case Study
 
-> Multi-tenant ERP I designed and built for **Kateka Clima**, an HVAC installation and maintenance company.
+> ERP I designed and built for **Kateka Clima**, an HVAC installation and maintenance company.
 > **Source code is private.** This repository documents the project; a live walkthrough is available on request.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -15,7 +15,6 @@
 - **HVAC maintenance plans**: recurring service contracts and scheduling.
 - **Finance**, **HR** and **inventory**.
 - **Client portal**: customers follow their services and plans online.
-- **Multi-tenant**: one platform serving multiple companies with isolated data.
 
 ## Architecture
 
